@@ -1,0 +1,12 @@
+{
+  "urlBackOffice": {
+    "login": "https://backoffice.sys.bet/auth/login/sysbet",
+    "getPlayer": "https://apidev.sga.bet/administrator/players/getPlayer"
+  },
+  "urlFinnalUser": {
+    "home": "https://finaluser.sys.bet/"
+  },
+  "urlSupport": {
+    "home": "https://support.sys.bet/"
+  }
+}

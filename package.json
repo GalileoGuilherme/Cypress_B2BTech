@@ -1,0 +1,23 @@
+{
+  "name": "Cypress_B2BTech",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GalileoGuilherme/Cypress_B2BTech.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GalileoGuilherme/Cypress_B2BTech/issues"
+  },
+  "homepage": "https://github.com/GalileoGuilherme/Cypress_B2BTech#readme",
+  "dependencies": {
+    "cypress": "^13.6.6"
+  }
+}
